@@ -46,7 +46,7 @@ This project focuses on building a deep learning model using Multi-Layer Percept
 - Output Layer: 1 neuron with sigmoid activation
 - Loss Function: Binary Crossentropy
 - Optimizer: Adam
-- Epochs: 15
+- Epochs: 100
 
 ---
 
